@@ -8,9 +8,4 @@ Try not click on the same fontawesome card twice.
  Materialize CSS
  FontAwesome
 
-How to Install:
 
-1)Clone to your local desktop
-2)cd into folder
-3)run 'npm install'
-4) run 'yarn start'
